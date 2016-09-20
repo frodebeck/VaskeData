@@ -55,6 +55,6 @@ Application.ScreenUpdating = True
 
 Call TilpassKolonnerKode(True)
 
-'Call SkrivMakroLogg(ModulNavn, MakroNavn)
+Call SkrivMakroLogg(ModulNavn, MakroNavn)
 
 End Sub
